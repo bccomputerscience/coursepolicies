@@ -35,17 +35,6 @@ Cell phones and cell phone usage is a classroom disruption. You know how to use 
 have conversations within class on your device. Carry your conversation outside of the classroom. If there is an an emergency, you should leave the class to answer your calls or messages. Do not send text messages while in class. Again, have your conversations outside of class. This includes any
 other social media platform that has messaging capabilities. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices should not be used in class for non-class related activities. In classes with Labs or other areas where computers are being used, these systems are provided for classroom activities only. 
 
-## Technology Requirements
-### Access
-If you do not have access to a computer off campus, there are several computer labs on campus you can use to participate in the course. 
-
-### Computer Requirements
-You will need to have an up-to-date browser, operating system and some additional
-software on your computer to take this class. Some of the documents in this course will be available to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer, you can download it by going to http://get.adobe.com/reader/.
-
-### Software Development Kit
-Find the WeekZero GetStarted Repo and read through the README file.
-
 ## Course communication
 ### How to
 Through out this semester we will need to communicate with eachother about the course. We will be using Canvas and its built in features to help us. If you are not familiar with Canvas please use the [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212).
@@ -78,4 +67,14 @@ Discussions button in the course navigation links. In order to get full credit f
 need to post a thoughtful, well-written response to the question and respond to two of your classmates’
 answers.[ Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
 
+## Technology Requirements
+### Access
+If you do not have access to a computer off campus, there are several computer labs on campus you can use to participate in the course. 
+
+### Computer Requirements
+You will need to have an up-to-date browser, operating system and some additional
+software on your computer to take this class. Some of the documents in this course will be available to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer, you can download it by going to http://get.adobe.com/reader/.
+
+### Software Development Kit
+Find the WeekZero GetStarted Repo and read through the README file.
 
