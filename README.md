@@ -9,6 +9,9 @@ that individuals have unique perspectives, behaviors, and worldviews that may be
 ## Academic Honesty and Plagiarism Policy
 Academic dishonesty will not be tolerated. Each student in this course will abide by the Academic Honesty Policy described in the [Academic Information and Standards](https://www.bakersfieldcollege.edu/sites/bakersfieldcollege.edu/files/1617Catalog_AcademicInfo.pdf) section of the Bakersfield College Catalog. A violation of our academic honesty and plagiarism policy will be immediately reported to the Dead of Student Life plus zero points earned for any assignment involved for each student involved. No excpetions.
 
+## Attendance
+Attendance is mandatory. The school policy allows up to 2 weeks of absences before I am required to drop you. If you are tardy, you will be assessed an absences for every 2 tardies. The attendance policy as outlined in the campus catalog. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar under [Important Dates](https://www.bakersfieldcollege.edu/important-dates). It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, may be marked absent upon their early departure.
+
 ### Group Activities  
 Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero. 
 
@@ -31,9 +34,6 @@ have been provided to help you understand what this means.
 Cell phones and cell phone usage is a classroom disruption. You know how to use and operate your devices. It is expected that you will turn cells phones off or otherwise silence your devices before class starts and respond only after class ends. If class has not started, please do not
 have conversations within class on your device. Carry your conversation outside of the classroom. If there is an an emergency, you should leave the class to answer your calls or messages. Do not send text messages while in class. Again, have your conversations outside of class. This includes any
 other social media platform that has messaging capabilities. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices should not be used in class for non-class related activities. In classes with Labs or other areas where computers are being used, these systems are provided for classroom activities only. 
-
-## Attendance
-Attendance is mandatory. The school policy allows up to 2 weeks of absences before I am required to drop you. If you are tardy, you will be assessed an absences for every 2 tardies. The attendance policy as outlined in the campus catalog. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar under [Important Dates](https://www.bakersfieldcollege.edu/important-dates). It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, may be marked absent upon their early departure.
 
 ## Technology Requirements
 ### Access
