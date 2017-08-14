@@ -76,5 +76,5 @@ You will need to have an up-to-date browser, operating system and some additiona
 software on your computer to take this class. Some of the documents in this course will be available to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer, you can download it by going to http://get.adobe.com/reader/.
 
 ### Software Development Kit
-Find the WeekZero GetStarted Repo and read through the README file.
+Find the WeekZero [GetStarted](https://github.com/WeekZero/GetStarted) Repo and read through the README file. This provides a brief overview to help you get started to help ensure you're prepared for your programming courses. 
 
